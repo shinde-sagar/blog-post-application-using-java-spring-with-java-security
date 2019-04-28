@@ -1,0 +1,37 @@
+Technology : Spring MVC 4.6 
+Project description
+
+Pages All Roles:
+
+1. Has an Authentication System Using Spring Security.
+
+2. Homepage: all existing sections, recent topics and recent posts.
+
+
+3. Section Page: Displaying all topics from section.
+
+4. Topic Page: Displaying topic and posts.
+
+
+Pages for User Role: 
+
+
+1. Profile Page(Display/ Edit).
+
+2. Creating new topic in Section.
+
+3. Creating posts at topic page.
+
+4. Removal own topics and posts by button at topic page.
+
+
+
+Pages for Admin Role:
+
+
+
+
+1. Creating new section.
+
+2. Displaying list of all users.
+
